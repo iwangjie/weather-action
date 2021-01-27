@@ -21,7 +21,7 @@ jobs:
           server_address: smtp.163.com
           server_port: 465
           username: 13373381619@163.com
-          password: LCwh7rEHS2KSAyr
+          password: LCQIUVGLRBDACSGU
           subject: Shanghai Weather Report (${{env.REPORT_DATE}})
           body: file://result.html
           to: 345127857@qq.com
